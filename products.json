@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "samsung n56",
+        "price": 3900,
+        "year": 2017
+    },
+    {
+        "id": 2,
+        "name": "nokia",
+        "price": 300,
+        "year": 2018
+    },
+    {
+        "id": 3,
+        "name": "nokia lT",
+        "price": 9300,
+        "year": 2021
+    },
+    {
+        "id": 4,
+        "name": "nokia 2100",
+        "price": 5300,
+        "year": 2100
+    }
+]
