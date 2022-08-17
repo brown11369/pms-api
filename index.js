@@ -13,7 +13,12 @@ const server=http.createServer((req,res)=>{
 
     
     
-    if(req.method==="GET" && parsedurl.pathname==="/products")
+    if(req.method==="GET" && parsedurl.pathname==="/")
+    {
+        res.write(JSON.stringify({message:"building Pms-api scratch"}))
+        res.end()
+    }
+    else if(req.method==="GET" && parsedurl.pathname==="/products")
     {
         if(id===undefined)
         {
