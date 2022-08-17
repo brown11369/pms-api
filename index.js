@@ -1,7 +1,7 @@
 const http=require("http");
 const fs=require("fs");
 const url=require("url");
-const PORT = process.env || 8000;
+const PORT = process.env.PORT || 8000;
 
 
 const server=http.createServer((req,res)=>{
