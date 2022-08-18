@@ -11,9 +11,19 @@ const server=http.createServer((req,res)=>{
     let parseproducts = JSON.parse(products)
     let id=parsedurl.query.id;
 
+
+    res.writeHead(200,{
+        "Access-Control-Allow-Origin":"*",
+        "Access-Control-Allow-Methods":"DELETE,POST,PUT,GET",
+        "Access-Control-Allow-Headers":"*"
+    })
+
     
-    
-    if(req.method==="GET" && parsedurl.pathname==="/")
+    if(req.method==="OPTIONS")
+    {
+        res.end();
+    }
+    else if(req.method==="GET" && parsedurl.pathname==="/")
     {
         res.write(JSON.stringify({message:"building Pms-api scratch"}))
         res.end()
