@@ -62,12 +62,12 @@ const server=http.createServer((req,res)=>{
 
                     if(err===null)
                     {
-                        res.write(JSON.stringify({message:"Product delete"}))
+                        res.write(JSON.stringify({message:"Product delete",success:true}))
                         res.end()
                     }
                     else
                     {
-                        res.write(JSON.stringify({message:"facing some issue try again later"}))
+                        res.write(JSON.stringify({message:"facing some issue try again later",success:false}))
                         res.end()
 
                     }
@@ -76,14 +76,14 @@ const server=http.createServer((req,res)=>{
             }
             else
             {
-                res.write(JSON.stringify({message:"Invalid id"}))
+                res.write(JSON.stringify({message:"Invalid id",success:false}))
                 res.end()
             }
             
 
         }
         else{
-            res.write(JSON.stringify({message:"Can't find id"}))
+            res.write(JSON.stringify({message:"Can't find id",success:false}))
             res.end()
         }
     }
@@ -101,12 +101,12 @@ const server=http.createServer((req,res)=>{
 
                 if(err===null)
                 {
-                    res.write(JSON.stringify({message:"Created Product"}))
+                    res.write(JSON.stringify({message:"Created Product",success:true}))
                     res.end()
                 }
                 else
                 {
-                    res.write(JSON.stringify({message:"facing some issue try again later"}))
+                    res.write(JSON.stringify({message:"facing some issue try again later",success:false}))
                     res.end()
 
                 }
@@ -135,12 +135,12 @@ const server=http.createServer((req,res)=>{
 
                     if(err===null)
                     {
-                        res.write(JSON.stringify({message:"update Product"}))
+                        res.write(JSON.stringify({message:"update Product",success:true}))
                         res.end()
                     }
                     else
                     {
-                        res.write(JSON.stringify({message:"facing some issue try again later"}))
+                        res.write(JSON.stringify({message:"facing some issue try again later",success:false}))
                         res.end()
     
                     }
