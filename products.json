@@ -1,26 +1,35 @@
 [
     {
-        "id": 1,
-        "name": "samsung n56",
-        "price": 3900,
-        "year": 2017
+        "id":2,
+        "name":"Maggi",
+        "ingredients":"Maggi noodles,Salt,Turmeric powder,Black-pepper powder,Tomato ketchup,Water",
+        "directions":"Take water in the pan and bring it to boil.Add Maggi seasoning, salt,turmeric powder and black- pepper powder to it. Add Maggi noodles. Bring it to boil on high flame and then reduce the heat. Add tomato ketchup. Allow it to cook on simmer for a couple of minutes. Now, serve the Maggi noodles.",
+        "calories":"200",
+        "image":"https://img-global.cpcdn.com/recipes/b9a676575b60fe36/680x482cq70/plain-maggi-noodles-recipe-main-photo.webp"
     },
     {
-        "id": 2,
-        "name": "nokia",
-        "price": 300,
-        "year": 2018
+        "id":3,
+        "name":"Watermelon Mint Juice",
+        "ingredients":"Watermelon,Mint Leaves,Sugar,Ice-cubes",
+        "directions":"Take the chilled watermelon and cut into half. Farmhouse Watermelon Mint Juice recipe step 1 photo Farmhouse Watermelon Mint Juice recipe step 1 photo Then cut the watermelon into small pieces. Farmhouse Watermelon Mint Juice recipe step 2 photo Now, take some fresh mint leaves and blend them with the watermelon in mixer or juicer. Then add sugar. Strain it into another vessel if blending in a normal mixer. Farmhouse Watermelon Mint Juice recipe step 3 photo Farmhouse Watermelon Mint Juice recipe step 3 photo After that pour this Farmhouse Watermelon Mint Juice in the glaases, garnish it with a mint leaf or leaves and pieces of watermelon and serve immediately....😋",
+        "calories":"550",
+        "image":"https://img-global.cpcdn.com/recipes/fb37374425626f59/680x482cq70/farmhouse-watermelon-mint-juice-recipe-main-photo.webp"
     },
     {
-        "id": 3,
-        "name": "nokia lT",
-        "price": 9300,
-        "year": 2021
+        "id":4,
+        "name":"Mango Dalgona Lassi",
+        "ingredients":"Mango,Whipped Cream,Curd,Sugar,Dry Fruits,Ice cubes",
+        "directions":"Take a mixer jar.Add mango puree 2 tbspn curd,ice-cubes,sugar and grind it. Sweet lassi is ready. Now,take a bowl. Add whipped cream and mango puree and 1 tbspn sugar. Mix well. Now take a glass. Add sweet mango lassi in it then add mango mixture over it. After that add mango chunks on it. Garnish it with dry fruits. Finally, Chilled Mango Dalgona lassi is ready to serve. Serve it with love.....😋",
+        "calories":"450",
+        "image":"https://myvegetarianroots.com/wp-content/uploads/2020/06/DSC_0184.jpeg"
     },
     {
-        "id": 4,
-        "name": "nokia 2100",
-        "price": 5300,
-        "year": 2100
+        "id":5,
+        "name":"Mango Dalgona Lassi",
+        "ingredients":"Chane(black chickpeas),Papad,Chopped Cheese,Chopped Onion,Chopped Tomato,Chopped Green Chilli,Chopped Coriander Leaves,Grated Cheese,Chat Masala,Salt,Red Chilli Powder,Lemon Juice",
+        "directions":"Firstly, take all the ingredients. Special Masala Papad recipe step 1 photo Add all dried maslas and mix well. Masala is ready for Masala Papad Special Masala Papad recipe step 2 photo Special Masala Papad recipe step 2 photo Then roast the papad and lay the Papad on the serving platter. Special Masala Papad recipe step 3 photo Special Masala Papad recipe step 3 photo Special Masala Papad recipe step 3 photo Top the papad with mixture and garnish it with onion,tomato, cheese and coriander leaves. Finally, Special Masala Papad is ready to serve. Serve it with love❤😋",
+        "calories":"750",
+        "image":"https://img-global.cpcdn.com/recipes/e938437f67f71d80/680x482cq70/special-masala-papad-recipe-main-photo.webp"
     }
+   
 ]
