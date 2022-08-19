@@ -49,29 +49,44 @@ const server=http.createServer((req,res)=>{
     else if(req.method==="DELETE" && parsedurl.pathname==="/products")
     {
 
+        
         if(id!==undefined)
         {
+            
             let delproduct=parseproducts.findIndex((product,index)=>{
                 return Number(id)===Number(product.id)
             })
+
+            
             if(delproduct!==-1){
 
-                parseproducts.splice(delproduct,1)
+                if(delproduct===0){
+                    
+                    res.write(JSON.stringify({message:"You can't delete this Product",success:false}))
+                    res.end()
+                    
+                }
+                else{
+                    parseproducts.splice(delproduct,1)
 
-                fs.writeFile("./products.json",JSON.stringify(parseproducts),(err)=>{
+                    fs.writeFile("./products.json",JSON.stringify(parseproducts),(err)=>{
 
-                    if(err===null)
-                    {
-                        res.write(JSON.stringify({message:"Product delete",success:true}))
-                        res.end()
-                    }
-                    else
-                    {
-                        res.write(JSON.stringify({message:"facing some issue try again later",success:false}))
-                        res.end()
+                        if(err===null)
+                        {
+                            res.write(JSON.stringify({message:"Product delete",success:true}))
+                            res.end()
+                        }
+                        else
+                        {
+                            res.write(JSON.stringify({message:"facing some issue try again later",success:false}))
+                            res.end()
+    
+                        }
+                    })
 
-                    }
-                })
+                }
+
+                
 
             }
             else
