@@ -11,6 +11,17 @@ const server=http.createServer((req,res)=>{
     let parseproducts = JSON.parse(products)
     let id=parsedurl.query.id;
 
+    function idfinder(){
+        let arr=parseproducts.map((ele)=>{
+            return ele.id
+        })
+        arr.sort((a,b)=>a-b)
+        let wantid=arr.pop()
+        return wantid
+    }
+
+    idfinder()
+
 
     res.writeHead(200,{
         "Access-Control-Allow-Origin":"*",
@@ -110,6 +121,7 @@ const server=http.createServer((req,res)=>{
         })
         req.on("end",()=>{
             let getdata=JSON.parse(data)
+            getdata["id"]=idfinder()+1;
             parseproducts.push(getdata)
 
             fs.writeFile("./products.json",JSON.stringify(parseproducts),(err)=>{
