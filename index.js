@@ -48,7 +48,7 @@ const server=http.createServer((req,res)=>{
         }
         else{
 
-            let product = parseproducts.find((product,index)=>{
+            let product = parseproducts.find((product)=>{
                 return Number(id)===Number(product.id)
             })
             res.write(JSON.stringify(product))
@@ -64,7 +64,7 @@ const server=http.createServer((req,res)=>{
         if(id!==undefined)
         {
             
-            let delproduct=parseproducts.findIndex((product,index)=>{
+            let delproduct=parseproducts.findIndex((product)=>{
                 return Number(id)===Number(product.id)
             })
 
@@ -153,7 +153,7 @@ const server=http.createServer((req,res)=>{
             })
 
             req.on("end",()=>{
-                let getproduct=parseproducts.findIndex((product,index)=>{
+                let getproduct=parseproducts.findIndex((product)=>{
                     return Number(id)===Number(product.id)
                 })
                 parseproducts[getproduct]=JSON.parse(data);
