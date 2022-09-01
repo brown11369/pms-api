@@ -1,34 +1,34 @@
 [
     {
         "id": 1,
-        "name": "pani puri",
+        "fname": "pani puri",
         "ingredients": "potatoes,onion,chopped coriander,roasted cumin powder,chaat masala powder,red chili powder,black salt or regular salt or pink salt,chopped mint leaves,ginger,green chilies,tamarind,jaggery powder,water,boondi",
         "directions": "take the sooji in a big bowl, add oil and water gradually. knead it into a smooth dough that shoul not be too stick or too tight. cover the dough, let it rest for 15-20 minutes. now, pull out small units from the smooth dough and roll them flat using a rolling pin. in a khadi, hear some oil and start frying the sooji purush one by one. fry until they puff up and turn golden brown from both ends. switch off the heat when done strain and let it cool and serve.",
         "description": "panipuri, phuchka, gupchup, golgappa, or pani ke patashe is a type of snack that originates from india, and is one of the most common street foods there.",
         "calories": "350",
-        "image": "https://www.awesomecuisine.com/wp-content/uploads/2007/11/pani-puri.jpg"
+        "image": "https://www.awesomecuisine.com/wp-content/uploads/2007/11/Pani-Puri.jpg"
     },
     {
         "id": 2,
-        "name": "maggi",
+        "fname": "maggi",
         "ingredients": "maggi noodles,salt,turmeric powder,black-pepper powder,tomato ketchup,water",
         "directions": "take water in the pan and bring it to boil.add maggi seasoning, salt,turmeric powder and black- pepper powder to it. add maggi noodles. bring it to boil on high flame and then reduce the heat. add tomato ketchup. allow it to cook on simmer for a couple of minutes. now, serve the maggi noodles.",
         "description": "maggi is an international brand of seasonings, instant soups, and noodles that originated in switzerland in the late 19th century. the maggi company was acquired by nestlé in 1947.",
         "calories": "200",
-        "image": "https://asmallbite.com/wp-content/uploads/2018/05/maggi-noodles-recipe-1-450x375.jpg"
+        "image": "https://asmallbite.com/wp-content/uploads/2018/05/Maggi-Noodles-Recipe-1-450x375.jpg"
     },
     {
         "id": 3,
-        "name": "watermelon mint juice",
+        "fname": "watermelon mint juice",
         "ingredients": "watermelon,mint leaves,sugar,ice-cubes",
         "directions": "take the chilled watermelon and cut into half. farmhouse watermelon mint juice recipe step 1 photo farmhouse watermelon mint juice recipe step 1 photo then cut the watermelon into small pieces. farmhouse watermelon mint juice recipe step 2 photo now, take some fresh mint leaves and blend them with the watermelon in mixer or juicer. then add sugar. strain it into another vessel if blending in a normal mixer. farmhouse watermelon mint juice recipe step 3 photo farmhouse watermelon mint juice recipe step 3 photo after that pour this farmhouse watermelon mint juice in the glaases, garnish it with a mint leaf or leaves and pieces of watermelon and serve immediately....😋",
         "description": "blend the watermelon and mint to a puree in a blender or using a hand blender. keep a few watermelon cubes and mint leaves aside for serving.",
         "calories": "550",
-        "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2010/4/5/0/vm0104_watermelon-and-mint-agua-fresca_s4x3.jpg.rend.hgtvcom.406.305.suffix/1393125639338.jpeg"
+        "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2010/4/5/0/VM0104_Watermelon-and-Mint-Agua-Fresca_s4x3.jpg.rend.hgtvcom.406.305.suffix/1393125639338.jpeg"
     },
     {
         "id": 4,
-        "name": "mango dalgona lassi",
+        "fname": "mango dalgona lassi",
         "ingredients": "mango,whipped cream,curd,sugar,dry fruits,ice cubes",
         "directions": "take a mixer jar.add mango puree 2 tbspn curd,ice-cubes,sugar and grind it. sweet lassi is ready. now,take a bowl. add whipped cream and mango puree and 1 tbspn sugar. mix well. now take a glass. add sweet mango lassi in it then add mango mixture over it. after that add mango chunks on it. garnish it with dry fruits. finally, chilled mango dalgona lassi is ready to serve. serve it with love.....😋",
         "description": "mango dalgona lassi, loaded with creamy dreamy mango cream, plain rich yogurt based liquid and hint of cardamom saffron pistachio, best summery beverage!",
@@ -37,7 +37,7 @@
     },
     {
         "id": 5,
-        "name": "masala papad",
+        "fname": "masala papad",
         "ingredients": "chane(black chickpeas),papad,chopped cheese,chopped onion,chopped tomato,chopped green chilli,chopped coriander leaves,grated cheese,chat masala,salt,red chilli powder,lemon juice",
         "directions": "firstly, take all the ingredients. special masala papad recipe step 1 photo add all dried maslas and mix well. masala is ready for masala papad special masala papad recipe step 2 photo special masala papad recipe step 2 photo then roast the papad and lay the papad on the serving platter. special masala papad recipe step 3 photo special masala papad recipe step 3 photo special masala papad recipe step 3 photo top the papad with mixture and garnish it with onion,tomato, cheese and coriander leaves. finally, special masala papad is ready to serve. serve it with love❤😋",
         "description": "the crispy papad is topped with a spicy and tangy mixture of onions, tomatoes, green chilies, cilantro (coriander leaves), salt, chaat masala powder, red chili powder, and lime juice.",
@@ -46,7 +46,7 @@
     },
     {
         "id": 6,
-        "name": "dal makhni",
+        "fname": "dal makhni",
         "ingredients": "udad dal, rajma(kidney beans), water, black cardamom, onion, tomatoes, ginger, garlic green chilli, salt, red chilli powder, turmeric powder, dry coriander powder, garam masala, black pepper powder, coriander leaves, fresh cream(malai), milk, cashew, cumin seeds, desi ghee/oil",
         "directions": "firstly wash the daal and rajma.take a big bowl,add udad daal and rajma then soak it for 3-4 hours. after that take a pressure cooker, add soaked daal,rajma,water,salt,black cardemom. cover the lid and cook it till 6-7 whistle at medium flame. take a pan or kadhai and add ghee and add cumin seeds into the pan/kadhai. special dal makhni recipe step 4 photo special dal makhni recipe step 4 photo now, grind onion,garlic,ginger,coriander leaves,green chilli and tomatoes. special dal makhni recipe step 5 photo special dal makhni recipe step 5 photo onion and tomato paste is ready. special dal makhni recipe step 6 photo add onion paste in kadhai and saute it for 1-2 minutes. then add tomato paste or puree in it and cook it. special dal makhni recipe step 7 photo special dal makhni recipe step 7 photo add turmeric powder, salt, red chilli powder, dry coriander powder, garam masala and mix it. after that add fresh cream and mix well and add boiled daal and cook it for 1-2 minutes. special dal makhni recipe step 8 photo daal makhni is ready to serve. serve it with love.....❤😋",
         "description": "dal makhani is a dish originating in new delhi, india. a relatively modern variation of traditional lentil dishes, it is made with urad dal and other pulses, and includes butter and cream",
@@ -55,37 +55,37 @@
     },
     {
         "id": 7,
-        "name": "fruit custard",
+        "fname": "fruit custard",
         "ingredients": "milk, sugar, cardamom powder, custard powder, chopped apple, chopped kiwi, pomegranate, cake pieces, whipped cream",
         "directions": "add 3,4 cups milk to a heavy bottom pan on medium heat. fruit custard recipe step 1 photo once it has been heated up a little, take out 3 tbspn milk from the pan into a small bowl.add in 3 tbspn custard powder to that milk and mix well. there should be no lumps. set it aside fruit custard recipe step 2 photo stir the milk in the pan in between and let it heat and come to a gentle boil. then lower the heat, add sugar and mix untill combined. start adding the custard mix. fruit custard recipe step 3 photo add little at a time and mix after each addition. whisk continuously. cook for 2-3 minutes untill the custard thickens. remove pan from heat and let it cool down a bit. add cardamom powder. then cover and place in the refrigerator to chill. fruit custard recipe step 4 photo now, take cake,whipped cream,chopped dry fruits and chopped all fruits that you are using for the custard and it in serving bowl and refrigerate. fruit custard recipe step 5 photo fruit custard recipe step 5 photo fruit custard recipe step 5 photo transfer custard to serving bowl and mix in the fruits and dry fruits. cover and refrigerate the custard for 1-2 hours.",
-        "image": "https://www.whiskaffair.com/wp-content/uploads/2020/05/fruit-custard-2-3.jpg",
         "description": "fruit custard is a dessert made by mixing chopped seasonal fruits with chilled cusard sauce. custard is a saucy dish that was traditionally prepared with cream,",
-        "calories": "300"
+        "calories": "300",
+        "image": "https://www.whiskaffair.com/wp-content/uploads/2020/05/Fruit-Custard-2-3.jpg"
     },
     {
         "id": 8,
-        "directions": "heat oil in a kadhai add mustard seeds saute it add chopped onion and saute it till it loses its raw taste. fried rice recipe step 1 photo add all spices and mix well add boiled rice and cook for 5 to 10 minutes. fried rice recipe step 2 photo fried rice recipe step 2 photo fried rice is ready to serve.",
-        "name": "fried rice",
+        "fname": "fried rice",
         "ingredients": "rice, onion, oil, mustard seeds, green chilli, red chilli powder, salt",
+        "directions": "heat oil in a kadhai add mustard seeds saute it add chopped onion and saute it till it loses its raw taste. fried rice recipe step 1 photo add all spices and mix well add boiled rice and cook for 5 to 10 minutes. fried rice recipe step 2 photo fried rice recipe step 2 photo fried rice is ready to serve.",
+        "description": "fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat. it is often eaten by itself or as an accompaniment to another dish.",
         "calories": "390",
-        "image": "https://www.funfoodfrolic.com/wp-content/uploads/2021/10/fried-rice-blog-thumbnail.jpg",
-        "description": "fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat. it is often eaten by itself or as an accompaniment to another dish."
+        "image": "https://www.funfoodfrolic.com/wp-content/uploads/2021/10/Fried-Rice-Blog-Thumbnail.jpg"
     },
     {
         "id": 9,
+        "fname": "mixed veg uttapam",
+        "ingredients": "rice, urad dal, methi seeds, poha, water to soak salt, oil, onion, tomato, carrot, capsicums, beetroot, ginger, green chilli, leaves curry, salt",
         "directions": "fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat. it is often eaten by itself or as an accompaniment to another dish.",
-        "ingredients": "rice 1/2 cup urad dal 1/2 tsp methi seeds 1 cup poha water to soak salt as required oil for roasting the veggies 1 onion finely chopped 1 tomato finely chopped 1 carrot chopped 1/2 green capsicums chopped 1/4 cup chopped beetroot 1 inch ginger chopped 1 green chilli chopped leaves few chopped curry 1/4 tsp salt",
-        "name": "mixed veg uttapam",
-        "image": "https://i.pinimg.com/originals/71/30/7c/71307c517b878f59680b7ad8ff310554.jpg",
+        "description": "an uttapam is a type of dosa from south india. unlike a typical dosa, which is crisp and crepe-like, an uttapam is thicker, with toppings.",
         "calories": "670",
-        "description": "an uttapam is a type of dosa from south india. unlike a typical dosa, which is crisp and crepe-like, an uttapam is thicker, with toppings."
+        "image": "https://i.pinimg.com/originals/71/30/7c/71307c517b878f59680b7ad8ff310554.jpg"
     },
     {
         "id": 10,
-        "name": "mathura peda",
-        "description": "peda or pera is a sweet dish hailing from the indian subcontinent. it originated from mathura, uttar pradesh, india. usually prepared in thick, semi-soft pieces, its main ingredients are khoa, sugar and traditional flavorings including cardamom seeds, pistachio nuts and saffro",
-        "ingredients": "1 tsp ghee 1/2 cup cow milk rest ingredients 2 tsp ghee 3 tbsp cow milk 3 tbsp powder sugar 1/6 tsp cardamom few drops kewra essences",
+        "fname": "mathura peda",
+        "ingredients": "ghee, cow milk, powder sugar, cardamom, kewra",
         "directions": "heat 1 tsp ghee in a pan. add cow milk and milk powder. mathura peda recipe step 1 photo add 1 tsp ghee and break mawa into pieces and cook till it crumbs. mathura peda recipe step 2 photo when the mawa dries add 2 tsp milk and saute till the colour change brown. mathura peda recipe step 3 photo cool blend to powder with sugar and cardamom seeds. mathura peda recipe step 4 photo mathura peda recipe step 4 photo keep the flame low throughout the cooking and stir continuously till the mixture thickens and without lumps. mathura peda recipe step 5 photo then add 2 tsp milk, kewra essences and mix the mixture well. divine the mixture and make peda. garnish with chopped pista and offer to the deity. mathura peda recipe step 6 photo mathura peda recipe step 6 photo mathura peda recipe step 6 photo jai shree krishna",
+        "description": "peda or pera is a sweet dish hailing from the indian subcontinent. it originated from mathura, uttar pradesh, india. usually prepared in thick, semi-soft pieces, its main ingredients are khoa, sugar and traditional flavorings including cardamom seeds, pistachio nuts and saffro",
         "calories": "900",
         "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2017/10/peda-recipe-2.jpg"
     }

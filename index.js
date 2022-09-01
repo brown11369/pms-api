@@ -122,13 +122,20 @@ const server=http.createServer((req,res)=>{
         req.on("end",()=>{
             let getdata=JSON.parse(data)
             getdata["id"]=idfinder()+1;
+            
+            getdata["fname"]=getdata["fname"].toLowerCase()
+            getdata["ingredients"]=getdata["ingredients"].toLowerCase()
+            getdata["directions"]=getdata["directions"].toLowerCase()
+            getdata["description"]=getdata["description"].toLowerCase()
+
             parseproducts.push(getdata)
+
 
             fs.writeFile("./products.json",JSON.stringify(parseproducts),(err)=>{
 
                 if(err===null)
                 {
-                    res.write(JSON.stringify({message:"Created Product",success:true}))
+                    res.write(JSON.stringify({message:"Product Created",success:true}))
                     res.end()
                 }
                 else
